@@ -19,3 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 https://codesinsider.com/flutter-listview-example/?expand_article=1
 
 - Angel Guerrero a.21308051280366@cbtis128.edu.mx
+
+## Resultado De Mi Aplicacion En Flutter
+
+
+![image](https://github.com/GuerreroA128/p10-appList-6i/assets/143743819/0bd46bb7-f61f-4ad7-b616-212232cf2435)
