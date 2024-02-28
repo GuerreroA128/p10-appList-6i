@@ -23,5 +23,5 @@ https://codesinsider.com/flutter-listview-example/?expand_article=1
 ## Resultado De Mi Aplicacion En Flutter
 
 
-![image](https://github.com/GuerreroA128/p10-appList-6i/assets/143743819/63b38a89-0ec6-45c3-ae59-9bd9b11292a7)
+![image](https://github.com/GuerreroA128/p10-appList-6i/assets/143743819/b9acb085-91a1-43ce-ab09-21741d4783b9)
 
